@@ -1,4 +1,3 @@
-# Documentacao-Shelfie
 ## Contribuidores
 - Mayara Spieker Carvalho 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/mayspiek)](https://github.com/mayspiek) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mayara-spieker/)](https://www.linkedin.com/in/mayara-spieker/) [![](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail&logoColor=white)](mailto:maya.spieker@gmail.com)
@@ -32,4 +31,13 @@ O Shelfie visa não apenas registrar o status da leitura, mas também permitir q
 <img height="600em" src="https://github.com/shelfiie/Documentacao-Shelfie/assets/79992764/30441ff3-a7ef-4b38-94f4-0e2159dc07a1" />
 
 ## Modelo Entidade-Relacionamento
-<img height="600em" src="https://github.com/shelfiie/Documentacao-Shelfie/assets/79992764/4dfe45bb-ec7e-4cde-bd50-db5b8c74f095" />
+<img height="600em" src="https://github.com/shelfiie/Documentacao-Shelfie/assets/79992764/f5e3fe73-ca22-4e49-b2c1-adc662a90f35" />
+
+
+## Prototipação - Telas Principais 
+<img height="350em" src="https://github.com/shelfiie/Documentacao-Shelfie/assets/79992764/95eca277-3367-4dbe-8dc7-268fa0658dd2" /> <img height="350em" src="https://github.com/shelfiie/Documentacao-Shelfie/assets/79992764/b7ab3d50-9bbe-492b-9ec1-0b7b47f26074" /> 
+<img height="350em" src="https://github.com/shelfiie/Documentacao-Shelfie/assets/79992764/ee71fe78-6985-4f99-aa8b-7fc468e04b37 " /> <img height="350em" src="https://github.com/shelfiie/Documentacao-Shelfie/assets/79992764/b668974c-d207-4f65-9d7f-b1bb2de17a05" />
+
+<img height="350em" src="https://github.com/shelfiie/Documentacao-Shelfie/assets/79992764/5a847952-b1ae-40d6-8c8d-ac01b13792c1" /> <img height="350em" src="https://github.com/shelfiie/Documentacao-Shelfie/assets/79992764/74080664-7214-4f02-897d-16dd6ee474f6" />
+
+
